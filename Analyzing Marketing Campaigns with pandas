@@ -1,0 +1,5 @@
+# Import pandas into the environment
+import pandas as pd
+
+# Import marketing.csv 
+marketing = pd.read_csv("marketing.csv")
